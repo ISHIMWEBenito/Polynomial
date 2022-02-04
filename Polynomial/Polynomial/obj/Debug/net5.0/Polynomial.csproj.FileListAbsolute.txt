@@ -1,0 +1,16 @@
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\bin\Debug\net5.0\Polynomial.exe
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\bin\Debug\net5.0\Polynomial.deps.json
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\bin\Debug\net5.0\Polynomial.runtimeconfig.json
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\bin\Debug\net5.0\Polynomial.runtimeconfig.dev.json
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\bin\Debug\net5.0\Polynomial.dll
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\bin\Debug\net5.0\ref\Polynomial.dll
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\bin\Debug\net5.0\Polynomial.pdb
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\obj\Debug\net5.0\Polynomial.csprojAssemblyReference.cache
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\obj\Debug\net5.0\Polynomial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\obj\Debug\net5.0\Polynomial.AssemblyInfoInputs.cache
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\obj\Debug\net5.0\Polynomial.AssemblyInfo.cs
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\obj\Debug\net5.0\Polynomial.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\obj\Debug\net5.0\Polynomial.dll
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\obj\Debug\net5.0\ref\Polynomial.dll
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\obj\Debug\net5.0\Polynomial.pdb
+C:\Users\Windows10\Downloads\projects\Polynomial\Polynomial\obj\Debug\net5.0\Polynomial.genruntimeconfig.cache
